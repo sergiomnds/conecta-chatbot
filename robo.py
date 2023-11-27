@@ -22,7 +22,7 @@ def executar_robo(robo):
         resposta = robo.get_response(mensagem.lower())
 
         if resposta.confidence >= CONFIANCA_MINIMA:
-            print(resposta.text + '\n')
+            print(f"{resposta.text} \n")
         else:
             print(
                 "Desculpe, não sei responder esta pergunta. Entre em contato com um vendedor. \n")
