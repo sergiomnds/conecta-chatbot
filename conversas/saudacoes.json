@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "oi", "olá", "tudo bem?", "ola"],
+            "resposta": "Olá! Sou o robô de atendimento da Conecta. Tire suas dúvidas de forma rápida, assim como nossa internet!"    
+        },
+        {
+            "mensagens": ["bom dia"],
+            "resposta": "Bom Dia! Sou o robô de atendimento da Conecta. Tire suas dúvidas de forma rápida, assim como nossa internet!"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "resposta": "Boa Tarde! Sou o robô de atendimento da Conecta. Tire suas dúvidas de forma rápida, assim como nossa internet!"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "resposta": "Boa Noite! Sou o robô de atendimento da Conecta. Tire suas dúvidas de forma rápida, assim como nossa internet!"
+        }
+    ]
+}

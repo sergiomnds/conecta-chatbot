@@ -1,0 +1,24 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "quais bairros a conecta oferece serviço?", "me fale os bairros que a conecta oferece serviço" ],
+            "resposta": "A Conecta cobre toda a cidade de Vitória da Conquista, exceto: Bairro Brasil e Candeias."
+        },
+        {
+            "mensagens": [ "quais são as opções de pagamento disponíveis para minha fatura de internet?", "como posso pagar minha fatura?" ],
+            "resposta": "Você pode pagar sua fatura através do boleto bancário, cartão de crédito ou débito automático. Entre em contato com um vendedor para mais informações."
+        },
+        {
+            "mensagens": [ "quais os planos de internet disponíveis?", "quais planos a conecta tem?"],
+            "resposta": "A Conecta oferece planos de 100, 200 e 300 megas. Custando respectivamente R$ 99,90, R$ 119,90 e R$ 139,90."
+        },
+        {
+            "mensagens": [ "como faço para mudar a senha do wi-fi?", "quero mudar a senha do wi-fi"],
+            "resposta": "Você pode chamar um técnico para fazer a alteração da senha do seu Wi-Fi, sem custo. Entre em contato com um vendedor e solicite a visita de um técnico."
+        },
+        {
+            "mensagens": [ "quanto custa a instalação da internet?", "quanto é para instalar a internet?" ],
+            "resposta": "A instalação da internet é gratuita. Após a contratação, um técnico irá até sua residência para fazer a instalação."
+        }
+    ]
+}
